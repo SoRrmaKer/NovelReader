@@ -1,0 +1,16 @@
+{
+  "id": "4556177",
+  "name": "毕设",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21125739",
+      "name": "番茄小说_fanqiexiaoshuo",
+      "font_class": "fanqiexiaoshuo_fanqiexiaoshuo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
